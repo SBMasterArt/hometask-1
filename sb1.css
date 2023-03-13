@@ -97,12 +97,12 @@ display: flex;
  .line-1{
     width: 35px;
     border-bottom: 2px solid rgb(0, 0, 0);
-    margin: 15px;
+    margin: 8px;
     margin-left: 20px;
     margin-top: 53px;
 }
 h2{
-    margin: -39px;
+    margin: -45px;
     margin-top: 57px;
     margin-left: 20px;
     font-weight: 100;
@@ -114,4 +114,82 @@ h6{
     margin-left: 20px;
     font-size: 12px;
     font-weight: 100;
+}
+
+.mystyle{
+    font-size: 12px;
+    margin: 0;
+   font-weight:bold;
+
+}
+.mystyle1{
+   margin: 0;
+    font-size: 11px;
+
+}
+.all{
+    display: flex;
+    margin-left: 10px;
+}
+.part1{
+    
+    width: 63px;
+    height: 137px;
+}
+.part2{
+    
+    width: 221px;
+    height: 137px;
+}
+.letter9{
+    margin: 0;
+    font-size: 13px;
+}
+
+.may{
+    font-size: 11px;
+}
+.skils{
+   font-size: 18px; 
+   margin: 0;
+   margin-left: 16px;
+}
+.line-2{
+    width: 35px;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.photoshop{
+    display: flex;
+}
+
+.square-3{
+    width: 9px;
+    height: 9px;
+    border-radius: 30px;
+    background: rgb(187, 187, 187);
+    margin: 0;
+    margin-top: 21px;
+    margin-left: 4px;
+}
+.shop{
+    font-size: 13px;
+    margin: 0;
+    margin-top: 17px;
+    margin-left: 20px;
+}
+.illustrator{
+    display: flex;
+   margin-top: -12px;
+}
+
+.design{
+    display: flex;
+    margin-top: -12px;
+}
+
+.effects{
+    display: flex;
+    margin-top: -12px;
 }
